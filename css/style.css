@@ -1,0 +1,132 @@
+body {
+ 	font-size: 16px;
+    line-height: 1.71429;
+    font-weight: bold;
+    font-family: courier, "Helvetica Neue", 
+				Helvetica, Arial, sans-serif
+
+}
+
+div {
+	border-style: none; 
+	border-width:2px; 
+	margin:7px; padding:7px; 
+	background-color: none;
+	position: relative;
+}
+
+#encabezado {
+	margin:7px; padding:7px; 
+	background-color: #FFF;
+	
+}
+
+#Zarai_Martinez{
+	border-color:#FFFFFF;
+	border-width: #FFFFFF;
+	margin-top: -25px;
+	margin-left: 2px;
+	height: 430px;
+	width: 900px;
+	border-color: #FFFFFF;
+	position: relative;
+	display: inline-block;
+	float: left;
+	vertical-align: top;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: bolder;
+	opacity: 0.7;
+
+}
+
+#Yulissa_Ramos{
+	border-color:#FFFFFF;
+	border-width: #FFFFFF;
+	margin-top: -25px;
+	margin-left: 2px;
+	height: 430px;
+	width: 900px;
+	border-color: #FFFFFF;
+	float:left;margin-left:-750px;
+	position: absolute;
+	display: inline-block;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: bolder;
+	opacity: 0.7;
+
+
+}
+
+#Yolanda_Rocha{
+	border-color:#FFFFFF;
+	border-width: #FFFFFF;
+	margin-top: -25px;
+	margin-left: 2px;
+	height: 430px;
+	width: 900px;
+	border-color: #FFFFFF;
+	float: left;margin-left:-580px;
+	position: absolute;
+	display: inline;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: bolder;
+	opacity: 0.7;
+}
+
+
+#Yetzabeth_Montaño{
+	border-color:#FFFFFF;
+	border-width: #FFFFFF;
+	margin-top: -270px;
+	margin-left: 2px;
+	height: 430px;
+	width: 900px;
+	border-color: #FFFFFF;
+	position: relative;
+	display: inline-block;
+	float: left;
+	vertical-align: top;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: bolder;
+	opacity: 0.7;
+
+}
+
+#Yesica_Terrazas{
+	border-color:#FFFFFF;
+	border-width: #FFFFFF;
+	margin-top: -33px;
+	margin-left: 2px;
+	height: 430px;
+	width: 900px;
+	border-color: #FFFFFF;
+	float: left;margin-left:-750px;
+	position: absolute;
+	display: inline;
+	color: #FFF;
+	font-size: 16.5px;
+	font-weight: bolder;
+	opacity: 0.7;
+}
+
+
+#Yenay_Delgado{
+	border-color:#FFFFFF;
+	border-width: #FFFFFF;
+	margin-top: -33px;
+	margin-left: 2px;
+	height: 430px;
+	width: 900px;
+	border-color: #FFFFFF;
+	float: left;margin-left:-580px;
+	position: absolute;
+	display: inline;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: bolder;
+	opacity: 0.7;
+}
